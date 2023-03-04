@@ -2,6 +2,7 @@
 data/
 .DS_Store
 .idea
+\.*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
