@@ -16,12 +16,10 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 import contractions
 from spellchecker import SpellChecker
 
-# nltk.download('words')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('wordnet')
-# nltk.download('omw-1.4')
-# nltk.download('punkt') 
-# nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
+nltk.download('punkt') 
+nltk.download('stopwords')
 
 # initialize WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
