@@ -32,3 +32,10 @@ automatic-essay-grading
 pip install bertopic
 ```
 3. To run the `Essay Evaluator` app, you'll need to have a OpenAI token in `data/openai_api.txt` file
+
+### Essay Evaluator App
+Here are some snippets from the final essay evaluator app
+
+![App UI](images/evaluator-app1.png)
+![Essay Evaluation](images/evaluator-app2.png)
+![Essay Analysis](images/evaluator-app3.png)
