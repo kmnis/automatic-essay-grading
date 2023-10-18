@@ -11,7 +11,7 @@ textblob==0.17.1
 pyspellchecker==0.7.1
 wordcloud==1.8.2.2
 jupyter==1.0.0
-notebook==6.4.0
+notebook==6.4.12
 appmode==0.8.0
 jupyter_nbextensions_configurator
 jupyter_contrib_nbextensions
