@@ -15,5 +15,5 @@ notebook==6.4.0
 appmode==0.8.0
 jupyter_nbextensions_configurator
 jupyter_contrib_nbextensions
-tornado==6.1
+tornado>=6.3.3
 openai==0.27.0
